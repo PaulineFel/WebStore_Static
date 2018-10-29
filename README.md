@@ -1,5 +1,5 @@
 # Webstore
-## 8 pages html a faire *
+## 8 pages html a faire 
 
 >Accueil
 >
